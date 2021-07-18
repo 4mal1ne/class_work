@@ -1,5 +1,4 @@
 import app
 
 if __name__ == '__main__':
-    app.check_user()
-    # app.start()
+    app.start()
